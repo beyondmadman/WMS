@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/close.png</file>
+        <file>res/close_button.png</file>
+        <file>res/goods.png</file>
+        <file>res/home.png</file>
+        <file>res/info.png</file>
+        <file>res/logon.png</file>
+        <file>res/max_button.png</file>
+        <file>res/min_button.png</file>
+        <file>res/restore_button.png</file>
+        <file>res/stock.png</file>
+        <file>res/supplier.png</file>
+        <file>res/user.png</file>
+        <file>res/wms.png</file>
+    </qresource>
+</RCC>
